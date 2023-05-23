@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**LiquidFlameUI/liquidflameui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on a UI Component Library. 
+
+- 🌱 I’m currently learning TailwindCSS
+
+- 👯 I’m looking to collaborate on amazing UI TailwindCSS projects
+
+- 🤔 I’m looking for help with building and enhancing my component library
+
+- 📫 How to reach me: liquidflame.ui@gmail.com
+
+
